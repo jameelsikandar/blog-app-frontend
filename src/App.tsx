@@ -1,7 +1,9 @@
+import Navbar from "./components/ui/layout/Navbar.js";
+
 function App() {
   return (
     <>
-      <h2>Hello World</h2>
+      <Navbar />
     </>
   );
 }
